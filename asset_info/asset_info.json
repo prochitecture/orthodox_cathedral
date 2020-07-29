@@ -1,0 +1,159 @@
+{"buildings": [
+{
+	"cladding": [
+		{
+			"material": "plaster",
+			"name": "duion_plaster_stucco_01_D_256.png",
+			"type": "texture",
+			"path": "../default/textures/cladding/plaster",
+			"textureWidthM": 1.5,
+			"textureHeightM": 1.5
+		}
+	]
+},
+{
+	"cladding": [
+		{
+			"material": "plaster",
+			"name": "duion_plaster_sprinkled_01_D_256.png",
+			"type": "texture",
+			"path": "../default/textures/cladding/plaster",
+			"textureWidthM": 3.0,
+			"textureHeightM": 3.0
+		}
+	]
+},
+{
+	"cladding": [
+		{
+			"material": "brick",
+			"name": "cc0textures_bricks11_col_256.jpg",
+			"type": "texture",
+			"path": "../default/textures/cladding/brick",
+			"textureWidthM": 1.5,
+			"textureHeightM": 1.5
+		}
+	]
+},
+{
+	"cladding": [
+		{
+			"material": "brick",
+			"name": "duion_bricks_classic_01_D_256.png",
+			"type": "texture",
+			"path": "../default/textures/cladding/brick",
+			"textureWidthM": 1.2,
+			"textureHeightM": 1.2
+		}
+	]
+},
+{
+	"cladding": [
+		{
+			"material": "brick",
+			"name": "duion_bricks_classic_02_D_256.png",
+			"type": "texture",
+			"path": "../default/textures/cladding/brick",
+			"textureWidthM": 2.1,
+			"textureHeightM": 2.1
+		}
+	]
+},
+{
+	"cladding": [
+		{
+			"material": "concrete",
+			"name": "duion_concrete_stripes_03_D_256.png",
+			"type": "texture",
+			"path": "../default/textures/cladding/concrete",
+			"textureWidthM": 4.0,
+			"textureHeightM": 4.0
+		}
+	]
+},
+{
+	"cladding": [
+		{
+			"material": "concrete",
+			"name": "cc0textures_concrete06_col_256.jpg",
+			"type": "texture",
+			"path": "../default/textures/cladding/concrete",
+			"textureWidthM": 3.0,
+			"textureHeightM": 3.0
+		}
+	]
+},
+{
+	"cladding": [
+		{
+			"material": "concrete",
+			"name": "duion_concrete_rough_01_D_256.png",
+			"type": "texture",
+			"path": "../default/textures/cladding/concrete",
+			"textureWidthM": 3.0,
+			"textureHeightM": 3.0
+		}
+	]
+},
+{
+	"cladding": [
+		{
+			"material": "gravel",
+			"name": "cc0textures_gravel04_col_256.jpg",
+			"type": "texture",
+			"path": "../default/textures/cladding/concrete",
+			"textureWidthM": 1.6,
+			"textureHeightM": 1.6
+		}
+	]
+},
+{
+	"cladding": [
+		{
+			"material": "metal",
+			"name": "duion_metal_panels_01_D_256.png",
+			"type": "texture",
+			"path": "../default/textures/cladding/metal",
+			"textureWidthM": 2.4,
+			"textureHeightM": 2.4
+		}
+	]
+},
+{
+	"cladding": [
+		{
+			"material": "roof_tiles",
+			"name": "rubberduck_220_256.jpg",
+			"type": "texture",
+			"path": "../default/textures/cladding/roof tiles",
+			"textureWidthM": 1.3,
+			"textureHeightM": 1.3
+		}
+	]
+},
+{
+	"cladding": [
+		{
+			"material": "roof_tiles",
+			"name": "scouser_roof_tiles_arched2_256.png",
+			"type": "texture",
+			"path": "../default/textures/cladding/roof tiles",
+			"textureWidthM": 1.8,
+			"textureHeightM": 1.8
+		}
+	]
+},
+{
+	"use": "cathedral",
+	"parts": [
+		{
+			"part": "facade",
+			"class": "tholobate",
+			"name": "tholobate.png",
+			"cladding": 1,
+			"type": "texture",
+			"path": "textures"
+		}
+	]
+}
+]}
